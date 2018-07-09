@@ -1,143 +1,58 @@
-#Unity User Manual (5.6)
+# Unity User Manual (5.6)
 
-Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).) 
+Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).)
+
+</dw-image>5b432fe4e9f4e60ba83eb220</dw-image>
 
 The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference.
 
+[5b4336c3cfabfd2720d7d8ed](Examples/Code_3_5b4336c3cfabfd2720d7d8ed.cs)
 
-<div class="frontpage-topsection">
+__New__
 
-**New**
+* Features introduced in 5.6: [What's New in 5.6](http://docs.google.com/WhatsNew56)
 
-* Features introduced in 5.6: [What's New in 5.6](WhatsNew56)
-* Upgrading Unity projects from older versions of Unity: [Upgrade Guide](UpgradeGuides)
+* Upgrading Unity projects from older versions of Unity: [Upgrade Guide](http://docs.google.com/UpgradeGuides)
 
-</div>
+__Best practice and expert guides__
 
-<div class="frontpage-topsection">
+* Best practices from Unity Support engineers: [Best Practice Guides](http://docs.google.com/BestPracticeGuides)
 
-**Best practice and expert guides**
+* Expert guides from Unity developers, in their own words: [Expert Guides](http://docs.google.com/ExpertGuides)
 
-* Best practices from Unity Support engineers: [Best Practice Guides](BestPracticeGuides)
-* Expert guides from Unity developers, in their own words: [Expert Guides](ExpertGuides)
+### Unity User Manual sections
 
+[![Main.UnityOverview](../uploads/Main/StructEditor.jpg)](UnityOverview) ###[Working in Unity](UnityOverview)### A complete introduction to the Unity Editor.
 
-</div>
+[![Main.Unity2D](../uploads/Main/struct2d.jpg)](Unity2D) ###[Unity 2D](Unity2D)### All of the Unity Editor's 2D-specific features including gameplay, sprites and physics.
 
-<div class="clear"></div>
+[![Main.Graphics](../uploads/Main/StructGraphics.jpg)](Graphics) ###[Graphics](Graphics)### The visual aspects of the Unity Editor including cameras and lighting.
 
+[![Main.PhysicsSection](../uploads/Main/StructPhysics.jpg)](PhysicsSection) ###[Physics](PhysicsSection)### Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space.
 
-<div class="frontpage-divider"></div>
+[![Main.UNet](../uploads/Main/StructUNet.png)](UNet) ###[Networking](UNet)### How to implement Multiplayer and networking.
 
-###Unity User Manual sections
+[![Main.ScriptingSection](../uploads/Main/StructScripting.jpg)](ScriptingSection) ###[Scripting](ScriptingSection)### Programming your games by using scripting in the Unity Editor.
 
-<div class="frontpage-section">
-[![Main.UnityOverview](../uploads/Main/StructEditor.jpg)](UnityOverview)
-###[Working in Unity](UnityOverview)###
-A complete introduction to the Unity Editor.
+[![Main.Audio](../uploads/Main/StructAudio.jpg)](Audio) ###[Audio](Audio)### Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings.
 
-</div>
+[![Main.AnimationSection](../uploads/Main/StructAnimation.jpg)](AnimationSection) ###[Animation](AnimationSection)### Animation in the Unity Editor.
 
-<div class="frontpage-section">
-[![Main.Unity2D](../uploads/Main/struct2d.jpg)](Unity2D)
-###[Unity 2D](Unity2D)###
-All of the Unity Editor's 2D-specific features including gameplay, sprites and physics.
+[![Main.UISystem](../uploads/Main/StructUI.jpg)](UISystem) ###[UI](UISystem)### The Unity Editor's UI system.
 
-</div>
-<div class="frontpage-section">
-[![Main.Graphics](../uploads/Main/StructGraphics.jpg)](Graphics)
-###[Graphics](Graphics)###
-The visual aspects of the Unity Editor including cameras and lighting.
+[![Main.Navigation](../uploads/Main/StructNavigation.jpg)](Navigation) ###[Navigation](Navigation)### Navigation in the Unity Editor, including AI and pathfinding.
 
-</div>
+[![Main.Services](../uploads/Main/ServicesSection.png)](UnityServices) ###[Unity services](UnityServices)###
 
-<div class="frontpage-section">
-[![Main.PhysicsSection](../uploads/Main/StructPhysics.jpg)](PhysicsSection)
-###[Physics](PhysicsSection)###
-Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space.
+[![Main.VROverview](../uploads/Main/StructVR.jpg)](VROverview) ###[Virtual reality](VROverview)###
 
-</div>
-  
-<div class="frontpage-section">
-[![Main.UNet](../uploads/Main/StructUNet.png)](UNet)
-###[Networking](UNet)###
-How to implement Multiplayer and networking.
+[![Main.ContributingToUnity](../uploads/Main/StructContributingToUnity.jpg)](ContributingToUnity) ###[Contributing to Unity](ContributingToUnity)### Suggest modifications to some of the Unity Editor's source code.
 
-</div>  
+[![Main.PlatformSpecific](../uploads/Main/StructPlatformSpecific.jpg)](PlatformSpecific) ###[Platform specific](PlatformSpecific)### Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor.
 
-<div class="frontpage-section">
-[![Main.ScriptingSection](../uploads/Main/StructScripting.jpg)](ScriptingSection)
-###[Scripting](ScriptingSection)###
-Programming your games by using scripting in the Unity Editor.
+[![Main.LegacyTopics](../uploads/Main/StructLegacyTopics.jpg)](LegacyTopics) ###[Legacy topics](LegacyTopics)### Useful if you are maintaining legacy projects.
 
-</div>  
-
-<div class="frontpage-section">
-[![Main.Audio](../uploads/Main/StructAudio.jpg)](Audio)
-###[Audio](Audio)###
-Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings.
-
-</div>
-
-<div class="frontpage-section">
-[![Main.AnimationSection](../uploads/Main/StructAnimation.jpg)](AnimationSection)
-###[Animation](AnimationSection)###
-Animation in the Unity Editor.
-
-</div>
-
-<div class="frontpage-section">
-[![Main.UISystem](../uploads/Main/StructUI.jpg)](UISystem)
-###[UI](UISystem)###
-The Unity Editor's UI system.
-
-</div>
-
-<div class="frontpage-section">
-[![Main.Navigation](../uploads/Main/StructNavigation.jpg)](Navigation)
-###[Navigation](Navigation)###
-Navigation in the Unity Editor, including AI and pathfinding.
-
-</div>
-
-
-<div class="frontpage-section">
-[![Main.Services](../uploads/Main/ServicesSection.png)](UnityServices)
-###[Unity services](UnityServices)###
-
-</div>
-
-<div class="frontpage-section">
-[![Main.VROverview](../uploads/Main/StructVR.jpg)](VROverview)
-###[Virtual reality](VROverview)###
-
-</div>
-
-
-<div class="frontpage-section">
-[![Main.ContributingToUnity](../uploads/Main/StructContributingToUnity.jpg)](ContributingToUnity)
-###[Contributing to Unity](ContributingToUnity)###
-Suggest modifications to some of the Unity Editor's source code.
-
-</div>
-
-<div class="frontpage-section">
-[![Main.PlatformSpecific](../uploads/Main/StructPlatformSpecific.jpg)](PlatformSpecific)
-###[Platform specific](PlatformSpecific)###
-Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor.
-
-</div>
-
-<div class="frontpage-section">
-[![Main.LegacyTopics](../uploads/Main/StructLegacyTopics.jpg)](LegacyTopics)
-###[Legacy topics](LegacyTopics)###
-Useful if you are maintaining legacy projects.
-</div>
-
-<div class="clear"></div>
-<br/>
-
-###Further sources of information
+### Further sources of information
 
 * [Unity Answers](http://answers.unity3d.com/) or [Unity Forums](http://forum.unity3d.com/) - here you can ask questions and search answers.
 
@@ -151,6 +66,7 @@ Useful if you are maintaining legacy projects.
 
 * [Asset Store help](http://unity3d.com/asset-store/help) - help on Asset Store content sharing.
 
-
 ### Known issues
+
 Is a feature not working as you expect it to? It might be an existing Known Issue. Please check using the __Issue Tracker__ at [issuetracker.unity3d.com](https://issuetracker.unity3d.com).
+
