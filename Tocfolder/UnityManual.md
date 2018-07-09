@@ -2,11 +2,11 @@
 
 Use the Unity Editor to create 2D and 3D games, apps and experiences. (Download the Editor at [unity3d.com](http://unity3d.com/unity).)
 
-</dw-image>5b432fe4e9f4e60ba83eb220</dw-image>
+<dw-image>5b432fe4e9f4e60ba83eb220</dw-image>
 
 The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference.
 
-[5b4336c3cfabfd2720d7d8ed](Examples/Code_3_5b4336c3cfabfd2720d7d8ed.cs)
+<dw-code>5b4336c3cfabfd2720d7d8ed</dw-code>
 
 __New__
 
