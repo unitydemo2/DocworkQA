@@ -1,13 +1,6 @@
-# Hello
-## Hello
-### Hello
+QA - Push Test
 
-#Hello
-##Hello
-###Hello
-
-
-# Deploying Unity offline
+Updated on 13th July 2018.
 
 The Unity Download Assistant supports offline deployment. This allows you to download all the necessary files for installing Unity, and to generate a script for repeating the same installation on other computers without internet access.
 
