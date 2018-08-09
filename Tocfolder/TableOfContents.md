@@ -2,7 +2,6 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
-	 - [Newunity](UnityManual.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
